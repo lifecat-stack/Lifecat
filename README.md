@@ -55,6 +55,10 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
   
   * ***Python*** 
     * [python 机器学习进行图像智能处理](https://github.com/kevinten10/Python-lifecat) 
+    
+  * ***Stm32*** 
+    * [stm32 嵌入式电子相册](https://github.com/kevinten10/Stm32-lifecat) 
+
 
 ## DEMO
 
