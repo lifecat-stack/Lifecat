@@ -55,32 +55,41 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
   
   * ***Python*** 
     * [python 机器学习进行图像智能处理](https://github.com/kevinten10/Python-lifecat) 
-   
-## Hierarchy
-
-<p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/hierarchy.png">
-</p>
 
 ## DEMO
 
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show.png">
 </p>
+
+--------------------------------------------------------------------------------
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show1.png">
 </p>
+
+--------------------------------------------------------------------------------
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show2.png">
 </p>
+
+--------------------------------------------------------------------------------
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show3.png">
 </p>
+
+--------------------------------------------------------------------------------
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show4.png">
 </p>
+
+--------------------------------------------------------------------------------
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show5.png">
+</p>
+
+--------------------------------------------------------------------------------
+<p align="center">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/stm32.png">
 </p>
 
 ## Online Demo
