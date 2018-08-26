@@ -83,6 +83,19 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show5.png">
 </p>
 
+## Online Demo
+
+[Preview](http://www.lifecat.club)
+
+## Donate
+
+If you find this project useful, you can buy author a glass of juice :tropical_drink:
+
+![donate](https://github.com/kevinten10/LifeCat-System/blob/master/pay.png)
+
+## License
+
+Copyright (c) 2017-present KevinTen
 
 
 
