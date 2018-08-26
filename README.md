@@ -1,7 +1,6 @@
-
-<div align=center>
-![cat](cat.svg)
-</div>
+<p align="center">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/cat.svg">
+</p>
 
 <p align="center">
   
