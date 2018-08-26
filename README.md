@@ -12,12 +12,12 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
 
 ## Introduction
 
-***Javaweb + Android + WeChat + Machine Learning + Hadoop***
+**Javaweb + Android + WeChat + Machine Learning + Hadoop**
 
 ## Architecture
 
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/project.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/architecture.png">
 </p>
 
 ## Projects
@@ -59,7 +59,7 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
 ## Hierarchy
 
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/back.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/hierarchy.png">
 </p>
 
 ## DEMO
