@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  
-  <p>
-    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-  </p>
-
+  <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
 </p>
 
 |Title|Instruction|
@@ -22,36 +18,36 @@
 
 [项目总服务在线网站](http://47.106.11.84)
 
-  * Web-v1   
+  * _Web-v1_ 
     * [jsp+servlet+mysql实现Javaweb](https://github.com/kevinten10/lifecatweb)   
     * [在线demo](http://www.lifecat.club:8080/lifecatweb/)
    
-  * Web-v2
+  * _Web-v2_
     * [ssm框架实现Javaweb后台管理系统](https://github.com/kevinten10/SSM-lifecat)  
     * [在线demo](http://www.lifecat.club:8080/ssm/)
   
-  * Web-v3-Back
+  * _Web-v3-Back_
     * [前后端分离之Springboot实现Java后端开发](https://github.com/kevinten10/springboot-lifecat)  
   
-  * Web-v3-Front 
+  * _Web-v3-Front_ 
     * [前后端分离之vue实现后台管理系统](https://github.com/kevinten10/Vue-Admin-lifecat)  
     * [在线demo](http://www.lifecat.club/admin)
   
-  * Web-v3-Front 
+  * _Web-v3-Front_ 
     * [前后端分离之vue实现仿ins效果web开发](https://github.com/kevinten10/Web-lifecat)  
     * [在线demo](http://www.lifecat.club/lifecat)
   
-  * Wechat 
+  * _Wechat_ 
     * [wechat 微信移动端小程序开发](https://github.com/kevinten10/WeChat-lifecat)  
     * 微信搜索小程序 :LifeCatTen
   
-  * Hadoop 
+  * _Hadoop_ 
     * [hadoop 分布式平台进行数据处理](https://github.com/kevinten10/Hadoop-lifecat)  
   
-  * Android 
+  * _Android_ 
     * [android Android图像记录应用](https://github.com/kevinten10/Android-lifecat)  
   
-  * Python 
+  * _Python_ 
     * [python 机器学习进行图像智能处理](https://github.com/kevinten10/Python-lifecat) 
    
 ### 项目架构
