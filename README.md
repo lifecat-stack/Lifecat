@@ -80,8 +80,7 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show4.png">
 </p>
 <p align="center">
-  <img style="width:40%;" src="https://github.com/kevinten10/LifeCat-System/blob/master/show5.jpg">
-  <img style="width:40%;" src="https://github.com/kevinten10/LifeCat-System/blob/master/show6.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show5.png">
 </p>
 
 
