@@ -10,17 +10,17 @@
 
 LifeCat 记录儿童成长过程中珍贵资料的管理平台
 
-### Introduction
+## Introduction
 
 ***Javaweb + Android + WeChat + Machine Learning + Hadoop***
 
-### Architecture
+## Architecture
 
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/project.png">
 </p>
 
-### Projects
+## Projects
 
 [项目总服务在线网站](http://www.lifecat.club)
 
@@ -56,8 +56,34 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
   * ***Python*** 
     * [python 机器学习进行图像智能处理](https://github.com/kevinten10/Python-lifecat) 
    
-### Hierarchy
+## Hierarchy
 
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/back.png">
 </p>
+
+## DEMO
+
+<p align="center">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show.png">
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show1.png">
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show2.png">
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show3.png">
+</p>
+<p align="center">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show4.png">
+</p>
+<p align="center">
+  <img style="width:40%;" src="https://github.com/kevinten10/LifeCat-System/blob/master/show5.jpg">
+  <img style="width:40%;" src="https://github.com/kevinten10/LifeCat-System/blob/master/show6.png">
+</p>
+
+
+
+
