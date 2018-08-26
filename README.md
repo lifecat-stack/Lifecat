@@ -10,11 +10,17 @@
 
 LifeCat 记录儿童成长过程中珍贵资料的管理平台
 
-### 项目架构
+### Introduction
 
 ***Javaweb + Android + WeChat + Machine Learning + Hadoop***
 
-### 项目列表
+### Architecture
+
+<p align="center">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/project.png">
+</p>
+
+### Projects
 
 [项目总服务在线网站](http://www.lifecat.club)
 
@@ -50,16 +56,8 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
   * ***Python*** 
     * [python 机器学习进行图像智能处理](https://github.com/kevinten10/Python-lifecat) 
    
-### 项目架构
-
-<p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/project.png">
-</p>
-  
-### 项目分层
+### Hierarchy
 
 <p align="center">
   <img src="https://github.com/kevinten10/LifeCat-System/blob/master/back.png">
 </p>
-  
-### 
