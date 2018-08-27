@@ -22,7 +22,7 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
 
 ## Projects
 
-[项目总服务在线网站](http://www.lifecat.club)
+[项目总服务在线网站](http://47.106.11.84/)
 
   * ***Web-v1*** 
     * [jsp+servlet+mysql实现Javaweb](https://github.com/kevinten10/lifecatweb)   
