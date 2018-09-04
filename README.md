@@ -107,9 +107,9 @@ If you find this project useful, you can buy author a glass of juice :tropical_d
 ![donate](https://github.com/kevinten10/LifeCat-System/blob/master/pay.png)
 
 |打赏的大哥                                              |打赏金额|
-|:--:|:--:|
-|孙**大哥                                               |￥20
-|......                                                |......
+|----------------------------                          |:--:|
+|孙**大哥                                               |￥20    |
+|......                                                |......   |
 
 ## License
 
