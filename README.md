@@ -98,7 +98,7 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
 
 ## Online Demo
 
-[Preview](http://www.lifecat.club)
+[Preview](http://47.106.11.84)
 
 ## Donate
 
