@@ -8,6 +8,6 @@ FROM tomcat:7.0
 
 MAINTAINER kevinten <wshten@gmail.com>
 
-ADD ./*.war /usr/local/tomcat/webapps/
+ADD lifecatweb.war /usr/local/tomcat/webapps/
 
 EXPOSE 8080
