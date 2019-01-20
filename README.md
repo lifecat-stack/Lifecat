@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/cat.svg">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/cat.svg">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
 ## Architecture
 
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/architecture.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/architecture.png">
 </p>
 
 ## Projects
@@ -63,37 +63,37 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
 ## DEMO
 
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/show.png">
 </p>
 
 --------------------------------------------------------------------------------
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show1.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/show1.png">
 </p>
 
 --------------------------------------------------------------------------------
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show2.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/show2.png">
 </p>
 
 --------------------------------------------------------------------------------
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show3.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/show3.png">
 </p>
 
 --------------------------------------------------------------------------------
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show4.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/show4.png">
 </p>
 
 --------------------------------------------------------------------------------
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/show5.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/show5.png">
 </p>
 
 --------------------------------------------------------------------------------
 <p align="center">
-  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/stm32.png">
+  <img src="https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/stm32.png">
 </p>
 
 ## Online Demo
@@ -104,7 +104,7 @@ LifeCat 记录儿童成长过程中珍贵资料的管理平台
 
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
-![donate](https://github.com/kevinten10/LifeCat-System/blob/master/pay.png)
+![donate](https://github.com/kevinten10/LifeCat-System/blob/master/lifecat-doc/pay.png)
 
 |打赏的大哥                                              |打赏金额|
 |----------------------------                          |:--:|

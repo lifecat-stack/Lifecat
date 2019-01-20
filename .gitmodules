@@ -1,0 +1,30 @@
+[submodule "lifecat-servlet"]
+	path = lifecat-servlet
+	url = https://github.com/kevinten10/Lifecat-Servlet.git
+[submodule "lifecat-ssm"]
+	path = lifecat-ssm
+	url = https://github.com/kevinten10/Lifecat-SSM.git
+[submodule "lifecat-server"]
+	path = lifecat-server
+	url = https://github.com/kevinten10/Lifecat-Server
+[submodule "lifecat-admin"]
+	path = lifecat-admin
+	url = https://github.com/kevinten10/Lifecat-Admin
+[submodule "lifecat-web"]
+	path = lifecat-web
+	url = https://github.com/kevinten10/Lifecat-Web
+[submodule "lifecat-wechat"]
+	path = lifecat-wechat
+	url = https://github.com/kevinten10/Lifecat-Wechat
+[submodule "lifecat-statistics"]
+	path = lifecat-statistics
+	url = https://github.com/kevinten10/Lifecat-Statistics
+[submodule "lifecat-android"]
+	path = lifecat-android
+	url = https://github.com/kevinten10/Lifecat-Android
+[submodule "lifecat-python"]
+	path = lifecat-python
+	url = https://github.com/kevinten10/Lifecat-Python
+[submodule "lifecat-iot"]
+	path = lifecat-iot
+	url = https://github.com/kevinten10/Lifecat-Iot
