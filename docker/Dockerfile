@@ -4,7 +4,7 @@
 # 2. Build with: docker build -t lifecat-xxx .
 # 3. Run with: docker run -d -p <host port>:8080 lifecat-xxx
 
-FROM tomcat:7.0
+FROM tomcat:8.0
 
 MAINTAINER kevinten <wshten@gmail.com>
 

@@ -4,7 +4,7 @@
 # 2. Build with: docker build -t lifecat-ssm .
 # 3. Run with: docker run -d -p 8092:8080 lifecat-ssm
 
-FROM tomcat:7.0
+FROM tomcat:8.0
 
 MAINTAINER kevinten <wshten@gmail.com>
 
