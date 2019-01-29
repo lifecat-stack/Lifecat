@@ -1,0 +1,8 @@
+*.css linguist-language=java
+*.less linguist-language=java
+*.js linguist-language=java
+*.html linguist-language=java
+*.sql linguist-language=java
+*.png linguist-language=java
+*.jpg linguist-language=java
+*.md linguist-language=java
