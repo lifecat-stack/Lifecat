@@ -3,16 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
+  <img src="https://img.shields.io/badge/build-passing-green.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/language-java-red.svg" alt="license"/>
+  <img src="https://img.shields.io/badge/release-v1.0.0-blue.svg" alt="license"/>
+  <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"/>
 </p>
 
 ## Title
 
-LifeCat 记录儿童成长过程中珍贵资料的管理平台
+LifeCat 儿童成长相册管理网站（实际上为Javaweb的练习项目，仅用作学习使用）
 
 ## Introduction
 
-**Javaweb + Android + WeChat + Machine Learning + Hadoop**
+**Javaweb + Android + Wechat + Machine Learning + Hadoop**
 
 ## Architecture
 
