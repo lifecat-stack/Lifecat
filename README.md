@@ -69,20 +69,20 @@ LifeCat/
 **技术栈**: JSP + Servlet + MySQL
 - 传统 JavaWeb 实现
 - MVC 架构模式
-- [源码](https://github.com/kevinten10/lifecatweb) | [在线演示](http://www.lifecat.club:8080/lifecatweb/)
+- [源码](https://github.com/kevinten10/lifecatweb) | 在线演示已下线
 
 ### Web v2 - 框架版
 **技术栈**: Spring + SpringMVC + MyBatis
 - SSM 框架整合
 - 后台管理系统
-- [源码](https://github.com/kevinten10/SSM-lifecat) | [在线演示](http://www.lifecat.club:8080/ssm/)
+- [源码](https://github.com/kevinten10/SSM-lifecat) | 在线演示已下线
 
 ### Web v3 - 前后端分离
 **技术栈**: SpringBoot + Vue.js
 - 现代化前后端分离架构
 - RESTful API 设计
-- **Admin 管理端**: [源码](https://github.com/kevinten10/Vue-Admin-lifecat) | [演示](http://www.lifecat.club/admin)
-- **用户端**: [源码](https://github.com/kevinten10/Web-lifecat) | [演示](http://www.lifecat.club/lifecat)
+- **Admin 管理端**: [源码](https://github.com/kevinten10/Vue-Admin-lifecat) | 演示已下线
+- **用户端**: [源码](https://github.com/kevinten10/Web-lifecat) | 演示已下线
 
 ---
 
@@ -137,16 +137,16 @@ LifeCat/
 
 ---
 
-## 🌐 在线演示
+## 🌐 历史演示状态
 
-**主站点**: [http://47.106.11.84](http://47.106.11.84)
+原主站和各 Web 版本演示均已退役。本仓库当前作为全栈学习与作品集参考保留，不提供在线服务。
 
 | 项目 | 演示地址 |
 |------|----------|
-| Web v1 | http://www.lifecat.club:8080/lifecatweb/ |
-| Web v2 | http://www.lifecat.club:8080/ssm/ |
-| Web v3 Admin | http://www.lifecat.club/admin |
-| Web v3 User | http://www.lifecat.club/lifecat |
+| Web v1 | 已下线 |
+| Web v2 | 已下线 |
+| Web v3 Admin | 已下线 |
+| Web v3 User | 已下线 |
 
 ---
 
